@@ -1,0 +1,19 @@
+.button {
+  background-color: #3880ff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #3171e0;
+}
+
+.tap-count {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
